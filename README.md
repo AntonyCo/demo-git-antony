@@ -19,7 +19,7 @@ Github se sert de l'utilitaire de gestion de version Git pour fonctionner.
 
 ## Quelques commandes de Git
 **Les commandes s'utilisent en suivant la forme:**
-*git \<commande> <paramètres> \<fichier>*
+git \<commande\> <paramètres> \<fichier\>
 Pour de plus amples explications --> [Voir la doc !](https://git-scm.com/doc)
 ### Configuration/Initialisation
 Commande | Explication | Paramètres
@@ -39,6 +39,6 @@ push| Envoi sur le dépôt distant les modifications validées
 pull| Récupère en local les modification du dépôt distant
 
 ## En résumé ?
-- [x] Git permet une bonne gestion des projets
-- [x]  Github permet un vrai aspect social
-- [ ] Git et Github assurent la qualité du développeur **C'est votre boulot ça ;)**
+- [x] Git assure une bonne gestion des projets
+- [x] Github ajoute une dynamique sociale à la gestion de projet
+- [ ] Git et Github assurent la qualité du développeur - **C'est votre boulot ça ;)**
