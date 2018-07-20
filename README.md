@@ -3,8 +3,8 @@
 
 ![GitHub Logo](/images/git-github.png)
 
-_André Siegfried_
->_Le talent a besoin de gestion._
+_Emmanuel Sioniac_
+>_J'aime ruiner les GitHub. Ça me ressource._
 
 ## Git c'est quoi ?	
  Git est un utilitaire de gestion de version, il va permettre au développeur
