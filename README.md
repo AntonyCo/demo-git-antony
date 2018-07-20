@@ -18,7 +18,11 @@ version sur ces projets à distance, en ajoutant une dimension sociale à grande
 Github se sert de l'utilitaire de gestion de version Git pour fonctionner.
 
 ## Quelques commandes de Git
-
+**Les commandes s'utilisent en suivant la forme:**
+	*git <commande> <paramètres> <fichier>*
 ### Configuration/Initialisation
+	init | Cette commande permet l'initialisation de repository git
+	config | Cette commande permet la modification de la configuration git
 ### Dépôt local
+
 ### Dépôt distant
