@@ -1,5 +1,5 @@
 # Git / Github
-#### [Antony CORREOSO](https://github.com/AntonyCo)
+#### [Antony CORREOSO](https://github.com/AntonyCo) [![GitHub Logo](/images/in_icon.png)](https://fr.linkedin.com/in/antony-correoso)
 
 ![GitHub Logo](/images/git-github.png)
 
