@@ -21,9 +21,10 @@ Github se sert de l'utilitaire de gestion de version Git pour fonctionner.
 **Les commandes s'utilisent en suivant la forme:**
 	*git <commande> <paramètres> <fichier>*
 ### Configuration/Initialisation
-	------------ | ------------
-	init | Cette commande permet l'initialisation de repository git
-	config | Cette commande permet la modification de la configuration git
+ |
+------------ | ------------
+init | Cette commande permet l'initialisation de repository git
+config | Cette commande permet la modification de la configuration git
 ### Dépôt local
 
 ### Dépôt distant
