@@ -3,8 +3,8 @@
 
 ![GitHub Logo](/images/git-github.png)
 
-_Emmanuel Sioniac_
->_J'aime ruiner les GitHub. Ça me ressource._
+_André Siegfried_
+>_Le talent a besoin de gestion._
 
 ## Git c'est quoi ?	
  Git est un utilitaire de gestion de version, il va permettre au développeur
@@ -31,6 +31,7 @@ config | Cette commande permet la modification de la configuration git | -\-glob
 ### Dépôt local
 Commande | Explication
 ------------ | ------------ 
+add | Ajoute les fichiers à l'index dans l'optique d'un *commit*.
 log | Afficher l'historique des **commits** effectués
 branch | Création d'une nouvelle branche
 
