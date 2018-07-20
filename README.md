@@ -27,10 +27,18 @@ Commande | Explication | Paramètres
 init | Cette commande permet l'initialisation de repository git
 config | Cette commande permet la modification de la configuration git | -\-global -\-local -\-file
 ### Dépôt local
+Commande | Explication
+------------ | ------------ 
+log | Afficher l'historique des **commits** effectués
+branch | Création d'une nouvelle branche
 
 ### Dépôt distant
+Commande | Explication
+------------ | ------------ 
+push| Envoi sur le dépôt distant les modifications validées
+pull| Récupère en local les modification du dépôt distant
 
 ## En résumé ?
 - [x] Git permet une bonne gestion des projets
 - [x]  Github permet un vrai aspect social
-- [ ] Git et Github assure la qualité du développeur **Ne pas rêver !**
+- [ ] Git et Github assurent la qualité du développeur **C'est votre boulot ça ;)**
