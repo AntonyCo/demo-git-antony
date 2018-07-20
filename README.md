@@ -19,7 +19,9 @@ Github se sert de l'utilitaire de gestion de version Git pour fonctionner.
 
 ## Quelques commandes de Git
 **Les commandes s'utilisent en suivant la forme**
+
 git \<commande\> <paramètres> \<fichier\>
+
 Pour de plus amples explications --> [Voir la doc !](https://git-scm.com/doc)
 ### Configuration/Initialisation
 Commande | Explication | Paramètres
