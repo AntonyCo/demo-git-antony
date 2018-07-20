@@ -3,8 +3,8 @@
 
 ![GitHub Logo](/images/git-github.png)
 
-André Siegfried
->Le talent a besoin de gestion.
+_André Siegfried_
+>_Le talent a besoin de gestion._
 
 ## Git c'est quoi ?	
  Git est un utilitaire de gestion de version, il va permettre au développeur
@@ -18,7 +18,7 @@ version sur ces projets à distance, en ajoutant une dimension sociale à grande
 Github se sert de l'utilitaire de gestion de version Git pour fonctionner.
 
 ## Quelques commandes de Git
-**Les commandes s'utilisent en suivant la forme:**
+**Les commandes s'utilisent en suivant la forme**
 git \<commande\> <paramètres> \<fichier\>
 Pour de plus amples explications --> [Voir la doc !](https://git-scm.com/doc)
 ### Configuration/Initialisation
